@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41137c86219a91e4d959e3b431604c03, type: 3}
+  m_Name: ParfabsConfig
+  m_EditorClassIdentifier: 
+  snakePrafab: {fileID: 7179883313402252399, guid: 1da39449f20668848bbb6b886f0cc2a1, type: 3}
+  wallPrafabs: {fileID: 6230983281560173223, guid: dac5fa8dc2330d447a778539dc4b6847, type: 3}
+  foodPrafabs: {fileID: 2948397155707554994, guid: a857520349658574b92716b93607aa41, type: 3}
